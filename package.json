@@ -1,0 +1,23 @@
+{
+  "name": "worldofcolors",
+  "version": "1.0.0",
+  "description": "It's just a fun quiz",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node ."
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "sree_vani",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0"
+  }
+}
