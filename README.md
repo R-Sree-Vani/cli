@@ -1,4 +1,4 @@
 # cli
 
-## type npx worldofcolors in cmd
+## type ```npx worldofcolors``` in cmd
  
